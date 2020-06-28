@@ -6,10 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- #219 setup | Repository initialisieren mit ChangeLog ([#219])
+
 
 ## [Released]
 ### v0.3
+- #219 setup | Repository initialisieren mit ChangeLog ([#219])
 
 
 ## History (add new on top)
