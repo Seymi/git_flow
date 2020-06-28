@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## [Released]
+### v0.7
+nicht geändert aber einfach so um die Versionsnummer zu erhöhen
+
 ### v0.3
 - #219 setup | Repository initialisieren mit ChangeLog ([#219])
 
